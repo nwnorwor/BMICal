@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMICal</string>
+    <string name="start">เริ่ม</string>
+    <string name="exit">ออก</string>
+</resources>
